@@ -1,0 +1,15 @@
+11/12/18 10:30:50: style.scss - Undefined mixin fontsize: line: 55
+11/12/18 10:30:51: style.scss - Undefined mixin fontsize: line: 55
+11/13/18 4:41:51: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 244
+11/13/18 4:43:03: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 244
+11/13/18 4:43:40: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 246
+11/13/18 4:49:26: style.scss - parse error: failed at `text-transform uppercase;` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 236
+11/13/18 4:49:45: style.scss - parse error: failed at `text-transform uppercase;` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 236
+11/13/18 4:50:10: style.scss - parse error: failed at `text-transform uppercase;` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 236
+11/13/18 4:50:20: style.scss - parse error: failed at `text-transform uppercase;` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 236
+11/13/18 4:50:39: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 251
+11/13/18 4:50:46: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 251
+11/13/18 4:53:15: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 251
+11/13/18 4:54:19: style.scss - parse error: failed at `background: (../assets/img/arrow-right.svg);` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 251
+11/14/18 9:58:51: style.scss - unclosed block: failed at `` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 1000
+11/14/18 9:59:27: style.scss - unclosed block: failed at `` /Users/jimmy/Documents/Next Act/wordpress/wp-content/themes/nextact/css/style.scss on line 1000
